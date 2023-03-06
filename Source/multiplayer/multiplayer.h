@@ -2,5 +2,12 @@
 
 #pragma once
 
+// Core functionality
 #include "CoreMinimal.h"
+#include "Engine.h"
 
+// Networking functionality
+#include "Net/UnrealNetwork.h"
+#include "UnrealNetwork.h"
+#include "Networking.h"
+#include "Online.h"
