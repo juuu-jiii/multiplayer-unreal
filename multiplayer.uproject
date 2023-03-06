@@ -29,6 +29,10 @@
 				"Mac",
 				"Linux"
 			]
+		},
+		{
+			"Name": "SteamSockets",
+			"Enabled": true
 		}
 	]
 }
