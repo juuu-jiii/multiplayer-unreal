@@ -9,5 +9,6 @@
 // Networking functionality
 #include "Net/UnrealNetwork.h"
 //#include "UnrealNetwork.h"
+// YOU NEEDED TO PLAY IN STANDALONE THIS WHOLE TIME, NOT AS A LISTEN SERVER
 #include "Networking.h"
 #include "Online.h"
