@@ -22,6 +22,6 @@ void ATestActor::BeginPlay()
 void ATestActor::Tick(float DeltaTime)
 {
 	Super::Tick(DeltaTime);
-
+	UE_LOG(LogTemp, Warning, TEXT("Hello"));
 }
 
